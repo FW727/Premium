@@ -1,6 +1,10 @@
-{
-  "userIds": [
-    "FW-PREMIUM-mf1sodng1BJ4C",
-    "ID_DE_EJEMPLO_2"
-  ]
-}
+[
+    {
+        "id": "FW-PREMIUM-ABC123XYZ",
+        "token": "x9k2m4p7q8w3z6t1"
+    },
+    {
+        "id": "FW-PREMIUM-DEF456UVW",
+        "token": "r5t8y2n9m3k7p4q1"
+    }
+]
