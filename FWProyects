@@ -1,0 +1,22 @@
+[
+{
+"name": "FW Weather App",
+"description": "Una aplicación del clima con diseño minimalista y datos en tiempo real. Creada con HTML, CSS, y JavaScript, utilizando una API pública de clima.",
+"url": "https://www.google.com/search?q=https://github.com/FWProyects/FW-Weather-App"
+},
+{
+"name": "FW Todo List",
+"description": "Una lista de tareas simple y elegante. Puedes agregar, editar y eliminar tareas, con almacenamiento local en el navegador.",
+"url": "https://www.google.com/search?q=https://github.com/FWProyects/FW-Todo-List"
+},
+{
+"name": "FW Landing Page",
+"description": "Una landing page de demostración con efectos de paralaje y animaciones suaves. Un ejemplo de diseño moderno y responsivo.",
+"url": "https://www.google.com/search?q=https://github.com/FWProyects/FW-Landing-Page"
+},
+{
+"name": "FW Calculator",
+"description": "Una calculadora funcional con diseño plano y moderno, que maneja operaciones básicas. Ideal para proyectos de programación.",
+"url": "https://www.google.com/search?q=https://github.com/FWProyects/FW-Calculator"
+}
+]
