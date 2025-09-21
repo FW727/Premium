@@ -1,0 +1,20 @@
+[
+  {
+    "id": "AQUÍ_VA_EL_ID_UNICO_DEL_USUARIO_1",
+    "key": "AQUÍ_VA_LA_CLAVE_MAESTRA_DEL_USUARIO_1",
+    "sub": "premium+",
+    "startDate": "2025-01-01"
+  },
+  {
+    "id": "AQUÍ_VA_EL_ID_UNICO_DEL_USUARIO_2",
+    "key": "AQUÍ_VA_LA_CLAVE_MAESTRA_DEL_USUARIO_2",
+    "sub": "basic",
+    "startDate": "2025-09-15"
+  },
+  {
+    "id": "AQUÍ_VA_EL_ID_UNICO_DEL_USUARIO_3",
+    "key": "AQUÍ_VA_LA_CLAVE_MAESTRA_DEL_USUARIO_3",
+    "sub": "premium",
+    "startDate": "2025-09-20"
+  }
+]
