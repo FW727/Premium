@@ -1,0 +1,21 @@
+[
+  {
+    "userId": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "password": "annual_password_123",
+    "plan": "annual",
+    "expires": "2026-09-20T23:59:59Z"
+  },
+  {
+    "userId": "fghij-klmno-pqrst-uvwxy-z12345",
+    "password": "lifetime_password_xyz",
+    "plan": "permanent",
+    "expires": "permanent"
+  },
+  {
+    "userId": "YOUR_USER_ID_HERE",
+    "password": "YOUR_CHOSEN_PASSWORD",
+    "plan": "monthly",
+    "expires": "2025-10-21T23:59:59Z"
+  }
+]
+
