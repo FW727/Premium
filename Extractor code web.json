@@ -1,17 +1,40 @@
-[
-  {
-    "id": "541234567890",
-    "password": "pass123",
-    "expiry": "permanent"
+{
+  "plans": {
+    "monthly": {
+      "price_usd": 2.99,
+      "discount_percent": 0,
+      "recommended": false
+    },
+    "yearly": {
+      "price_usd": 19.99,
+      "discount_percent": 30,
+      "recommended": true
+    },
+    "permanent": {
+      "price_usd": 49.99,
+      "discount_percent": 0,
+      "recommended": false
+    }
   },
-  {
-    "id": "541234567891",
-    "password": "securepass",
-    "expiry": "2025-12-31"
-  },
-  {
-    "id": "541234567892",
-    "password": "demo456",
-    "expiry": "2025-10-23"
-  }
-]
+  "users": [
+    {
+      "id": "541234567890",
+      "password": "pass123",
+      "expiry": "permanent",
+      "plan": "permanent"
+    },
+    {
+      "id": "541234567891",
+      "password": "securepass",
+      "expiry": "2025-12-31",
+      "plan": "yearly"
+    },
+    {
+      "id": "541234567892",
+      "password": "demo456",
+      "expiry": "2025-10-23",
+      "plan": "monthly"
+    }
+  ]
+}
+
