@@ -7,7 +7,7 @@
     },
     "yearly": {
       "price_usd": 19.99,
-      "discount_percent": 30,
+      "discount_percent": 99,
       "recommended": true
     },
     "permanent": {
@@ -18,8 +18,8 @@
   },
   "users": [
     {
-      "id": "541234567890",
-      "password": "pass123",
+      "id": "577b7267-3f5f-4508-83d2-57c11d8f015a",
+      "password": "Fireway",
       "expiry": "permanent",
       "plan": "permanent"
     },
