@@ -1,23 +1,17 @@
 [
   {
-    "id": "388db37f-54e0-4d2e-ad7b-dbd68884e695",
-    "key": "Fireway",
-    "expiry": "2025-12-31T23:59:59Z",
-    "plan": "anual",
-    "name": "Fireway727"
+    "id": "541234567890",
+    "password": "pass123",
+    "expiry": "permanent"
   },
   {
-    "id": "PON_AQUI_EL_ID_DE_USUARIO_2",
-    "key": "CLAVE-PERMANENTE-456",
-    "expiry": "permanente",
-    "plan": "permanente",
-    "name": "Usuario Permanente"
+    "id": "541234567891",
+    "password": "securepass",
+    "expiry": "2025-12-31"
   },
   {
-    "id": "a1b2c3d4-e5f6-a7b8-c9d0-e1f2a3b4c5d6",
-    "key": "CLAVE-TEST-789",
-    "expiry": "2024-10-25T23:59:59Z",
-    "plan": "mensual",
-    "name": "Usuario de Prueba"
+    "id": "541234567892",
+    "password": "demo456",
+    "expiry": "2025-10-23"
   }
 ]
